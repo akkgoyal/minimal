@@ -4,4 +4,4 @@
 
 # Fraud Detection
 
-This is a project related to detection of fraudulent financial transactions.
+This is a project related to the detection of fraudulent financial transactions.
